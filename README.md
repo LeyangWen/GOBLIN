@@ -31,7 +31,7 @@ Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 
 [Image Augmentation (Noise Addition)]()
 
-[Image Augmentation (Cut & Paste)]()
+[Image Augmentation (Cut & Paste)](https://github.com/gwyong/Contest/tree/master/VIMSdatathon2023)
 
 ## Custom Construction Dataset:
 [Official dataset submission for i3CE2023 Datathon](https://drive.google.com/file/d/1ESVZ3JyJvmjwASMxKhsUv8KGxQ9SkhL5/view?usp=sharing)

@@ -20,6 +20,8 @@ Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 
 [Worker Detector (YOLOv8) & Evaluation](https://github.com/LeyangWen/ultralytics.git)
 
+[Natural Language Based Auto-labeling Network (GroundingDINO)](https://github.com/LeyangWen/Grounded-Segment-Anything.git)
+
 [Annotation Tool]()
 
 [Flickr & Bing Scraper](https://github.com/sgl33/dpm-image-scraper)

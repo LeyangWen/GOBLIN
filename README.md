@@ -29,6 +29,9 @@ Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 
 [YouTube Scraper]()
 
+[Image Augmentation (Noise Addition)]()
+
+[Image Augmentation (Cut & Paste)]()
 
 ## Custom Construction Dataset:
 [Official dataset submission for i3CE2023 Datathon](https://drive.google.com/file/d/1ESVZ3JyJvmjwASMxKhsUv8KGxQ9SkhL5/view?usp=sharing)

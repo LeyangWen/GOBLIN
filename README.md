@@ -1,4 +1,5 @@
-# GO BLue INtelligence (GOBLIN) Detector
+<img src="https://i.ibb.co/RH27KT4/goblin-homepage-v3.png" alt="goblin-homepage-v3" border="0">
+  # GO BLue INtelligence (GOBLIN) Detector
 - 4th Annual VIMS Datathon Competition 2023
 - i3CE2023
 

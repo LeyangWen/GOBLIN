@@ -6,12 +6,14 @@
 Gunwoo Yong1, Francis Baek1, Lewang Wen1,
 Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 
-1. PhD Candidate, Dynamic Project Management Lab, Dept. of Civil & Environmental Engineering, University of Michigan
+1. Ph.D. Candidate, Dynamic Project Management Lab, Dept. of Civil & Environmental Engineering, University of Michigan
 2. Undergraduate Student, Dynamic Project Management Lab, Dept. of Computer Science, University of Michigan
 3. Advisor, Professor & John L. Tishman CM Faculty Scholar Associate Department Chair of Research, Dept. of Civil & Environmental Engineering, University of Michigan
 
 [Group Website](https://dpm.engin.umich.edu/)
 
+## Presentation
+[i3CE Slides](https://docs.google.com/presentation/d/1sJN__WHWoa9BcIThwtlRZCMCbRTzd_PJ/edit?usp=sharing&ouid=116421085916165909759&rtpof=true&sd=true)
 
 ## Code Repositories:
 [General Detector (YOLOv8)]()

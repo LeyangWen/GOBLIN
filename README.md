@@ -14,7 +14,7 @@ Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 [Group Website](https://dpm.engin.umich.edu/)
 
 ## Presentation
-[i3CE Slides](https://docs.google.com/presentation/d/1sJN__WHWoa9BcIThwtlRZCMCbRTzd_PJ/edit?usp=sharing&ouid=116421085916165909759&rtpof=true&sd=true)
+[ASCE Slides](https://docs.google.com/presentation/d/1sJN__WHWoa9BcIThwtlRZCMCbRTzd_PJ/edit?usp=sharing&ouid=116421085916165909759&rtpof=true&sd=true)
 
 ## Code Repositories:
 [General Detector (YOLOv8)](https://github.com/gwyong/Contest/tree/master/VIMSdatathon2023)

@@ -25,9 +25,11 @@ Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 
 ## Custom Construction Dataset:
 [Official dataset submission for i3CE2023 Datathon](https://drive.google.com/file/d/1ESVZ3JyJvmjwASMxKhsUv8KGxQ9SkhL5/view?usp=sharing)
+
 [Custom augmented dataset](https://drive.google.com/file/d/1Q-BRIFyGRgjXMS4C_DKga2l40WlWKIH_/view?usp=sharing)
 
 
 ## Weights:
-[General detection - YOLOv8-x]
-[Worker detection - YOLOv8-x]
+[General detection - YOLOv8-x]()
+
+[Worker detection - YOLOv8-x]()

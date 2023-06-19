@@ -3,7 +3,7 @@
 - i3CE2023
 
 ## Group Members
-Gunwoo Yong1, Francis Baek1, Lewang Wen1,
+Gunwoo Yong1, Francis Baek1, Leyang Wen1,
 Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 
 1. Ph.D. Candidate, Dynamic Project Management Lab, Dept. of Civil & Environmental Engineering, University of Michigan

@@ -40,6 +40,6 @@ Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 
 
 ## Weights:
-[General detection - YOLOv8-x]()
+[General detection - YOLOv8-x](https://drive.google.com/file/d/17wip5alB54XCTZG9Wa0_e6q4uD-2RZiZ/view?usp=sharing)
 
-[Worker detection - YOLOv8-x]()
+[Worker detection - YOLOv8-x](https://drive.google.com/file/d/1cnbtvV9DHyG_GFDK4aEus7ZgXer0eF2F/view?usp=sharing)

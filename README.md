@@ -23,13 +23,13 @@ Seung-Gu Lee2, Juhyeon Bae1, SangHyun Lee3*
 
 [Natural Language Based Auto-labeling Network (GroundingDINO)](https://github.com/LeyangWen/Grounded-Segment-Anything.git)
 
-[Annotation Tool]()
+[Annotation Tool](https://github.com/LeyangWen/GOBLIN/blob/main/Run_LabelingTool.py)
 
 [Flickr & Bing Scraper](https://github.com/sgl33/dpm-image-scraper)
 
-[YouTube Scraper]()
+[YouTube Scraper](https://github.com/LeyangWen/GOBLIN/blob/main/Video_saver_V2.py)
 
-[Image Augmentation (Noise Addition)]()
+[Image Augmentation (Noise Addition)](https://github.com/LeyangWen/GOBLIN/blob/main/Data_Augment.py)
 
 [Image Augmentation (Cut & Paste)](https://github.com/gwyong/Contest/tree/master/VIMSdatathon2023)
 

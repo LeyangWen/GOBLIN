@@ -1,7 +1,7 @@
 # GO BLue INtelligence (GOBLIN) Detector
 <img src="https://i.ibb.co/98tbtHN/GOBLIN-Detector-20230620-pptx-1.png" alt="GOBLIN-Detector-20230620-pptx-1" border="0">
 - 4th Annual VIMS Datathon Competition 2023
-- i3CE2023
+- ASCE2023
 
 ## Group Members
 Gunwoo Yong1, Francis Baek1, Leyang Wen1,

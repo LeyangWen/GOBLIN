@@ -1,6 +1,5 @@
 # GO BLue INtelligence (GOBLIN) Detector
-- 1st place winner in 4th Annual VIMS Datathon Competition 2023
-- ASCE2023
+**1st place winner** in *4th Annual VIMS Datathon Competition 2023 - ASCE2023*
 
 <img src="https://i.ibb.co/98tbtHN/GOBLIN-Detector-20230620-pptx-1.png" alt="GOBLIN-Detector-20230620-pptx-1" border="0">
 
